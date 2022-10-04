@@ -1036,7 +1036,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 60px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/MEXICALI/vlbbg.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1049,7 +1049,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.45);
 }
 
 .testimonials .quote-icon {
@@ -1618,7 +1618,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+  background: url("../img/MEXICALI/repairbg.jpg") center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
@@ -1631,7 +1631,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(0, 0, 0, 0.65);
   z-index: 1;
 }
 
@@ -1643,7 +1643,7 @@ section {
 }
 
 #footer .footer-top .footer-logo img {
-  height: 80px;
+  height: 120px;
 }
 
 #footer .footer-top h3 {
