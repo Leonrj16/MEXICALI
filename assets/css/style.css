@@ -137,8 +137,7 @@ h6 {
   padding-right: 6px;
   line-height: 0;
 }
-/*----------Fin de Top Bar----------*/
-
+/*----------Fin de Top Bar*/
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -1201,7 +1200,7 @@ section {
   height: 40px;
   opacity: 0;
   transition: bottom ease-in-out 0.4s;
-  background: rgba(235, 38, 38, 0.8))
+  background: rgba(235, 38, 38, 0.8);
   display: flex;
   align-items: center;
   justify-content: center;
