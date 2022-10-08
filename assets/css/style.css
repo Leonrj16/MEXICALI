@@ -1,10 +1,5 @@
 /**
-* Template Name: Knight - v4.9.0
-* Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
+* Author: Lion Company
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -122,6 +117,27 @@ h6 {
     margin-top: 90px;
     }
 }
+
+/*--------------------------------------------------------------
+# Top Bar
+--------------------------------------------------------------*/
+#topbar {
+  background: #050505;
+  color: #fff;
+  height: 40px;
+  font-size: 16px;
+  font-weight: 600;
+  z-index: 996;
+  transition: all 0.5s;
+}
+#topbar.topbar-scrolled {
+  top: -40px;
+}
+#topbar i {
+  padding-right: 6px;
+  line-height: 0;
+}
+/*----------Fin de Top Bar----------*/
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -526,7 +542,7 @@ section {
 --------------------------------------------------------------*/
 .featured {
   padding: 40px 0 0 0;
-  background: white;
+  background: #ffff;
 }
 
 .featured .nav-tabs {
